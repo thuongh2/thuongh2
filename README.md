@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React JS, Spring Boot, Python ...
 - 🤔 I’m looking for help with ... React JS, Spring Boot, Python ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... https://www.facebook.com/thuong016/
+- 📫 How to reach me: ... <a href="https://www.facebook.com/thuong016/">facebook</a> 
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... I'm bad at English and I'm trying to learn it 👨‍🔬👩‍🔬
 
